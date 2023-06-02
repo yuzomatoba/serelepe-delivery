@@ -1,4 +1,6 @@
-# Serelepe Delivery
+# ![image](https://github.com/yuzomatoba/serelepe-delivery/assets/108953241/93fe3415-191c-4dd6-b328-d34c7644fbf3)
+ Serelepe Delivery ![image](https://github.com/yuzomatoba/serelepe-delivery/assets/108953241/1ae1c03e-8d67-4343-9e32-728e14d11469)
+
 
 This project is a delivery application developed for customers, employees, and administrators. It allows for product sales, user registration, order tracking, and user and order management.
 
