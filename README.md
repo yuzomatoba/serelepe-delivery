@@ -76,7 +76,7 @@ The Back-End was developed using the following tools:
  
  - ``dev``: Clears the ports ``3000`` and ``3001`` and starts the application with  ``pm2``  in fork mode (one instance for each application). In this mode, updates are watched (watch mode).
 
-- ``dev:prestart``: A partir da raiz, esse comando faz o processo de instalação de dependências ``(npm i)`` nos dois projetos ``(./front-end e ./back-end)`` e roda o ``Sequelize`` no ``./back-end`` (lembrar de configurar o .env no mesmo).
+- ``dev:prestart``: From the root, this command installs dependencies  ``(npm i)`` in the two projects ``(./front-end e ./back-end)`` and runs ``Sequelize`` in ``./back-end`` (remember to configure the .env file in the same directory).
 
 - ``db:reset``: Roda os scripts do ``Sequelize`` restaurando o banco de dados de desenvolvimento (final ``-dev``). Utilize esse script caso ocorra algum problema no seu banco local.
 
