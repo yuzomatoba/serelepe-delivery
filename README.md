@@ -144,37 +144,37 @@ This command will create a MySQL container named `delivery-app`, set the root pa
 
 To better understand how the API and the project itself work, the functionalities and development have been divided into five (5) different flows, each with its subdivisions, which together form the application itself.
 
-Sendo eles: 
-- Fluxo Comum
+They are: 
+- Common Flow
     -
-    - Login: Verifica se o banco de dados contém as pessoas usuárias padrão. 
+    - Login: Checks if the database contains the default user accounts.
 
-    - Registro: Deve ser capaz de registrar novos usuários, com dados validos no banco de dados.
-- Fluxo do Cliente
+    - Registration: Should be able to register new users with valid data in the database.
+- Customer Flow
     - 
-    - Produtos do Cliente: Fluxo responsável pelos produtos que o cliente inseriu no carrinho. Sendo possivel, inserir, remover, modificar e deletar produtos do carrinho. O cliente também consegue consultar e ver os produtos e preços.
+    - Customer Products: It is responsible for the products that the customer added to the cart. It allows adding, removing, modifying, and deleting products from the cart. The customer can also view products and prices.
 
-    - Checkout: Validar o valor total dos produtos adicionados na tela de produtos, navegar para a tela de checkout através do botão do carrinho de compras, gerar um novo pedido com o preço total presumido e dados aleatórios para utilização. O usuario tambem consegue ver os detalhes do pedido, remover itens do carrinho.
+    - Checkout: Validates the total value of the products added on the product screen, navigates to the checkout screen through the shopping cart button, generates a new order with the presumed total price and random data for use. The user can also view order details and remove items from the cart.
 
-    - Pedidos do Cliente: Aqui é possivel ver a tela com todos os pedidos do cliente com os dados corretos.
+    - Customer Orders: It is possible to see the screen with all the customer's orders with the correct data.
 
-    - Detalhes do Pedido: Contem  detalhes do pedido do cliente de forma a possuir os dados corretos da venda.
+    - Order Details: Contains the customer's order details in order to have the correct sales data.
 
-- Fluxo da Pessoa Vendedora
+- Seller Flow
     -
-    - Pedidos do Vendedor: O vendedor consegue  ver a lista de todos os pedidos atuais e anteriores.
+    - Seller Orders: The seller can view the list of all current and previous orders.
 
-    - Detalhes do Pedido: A pessoa vendedora tem acesso a tela de detalhes do pedido, de forma a possuir os dados corretos da venda.
+    - Order Details: The seller has access to the order details screen to have the correct sales data.
 
-- Validação do  Status do Pedido
+- Order Status Validation
     -
-    - A validação de status consiste em assegurar que os status do pedido sejam alterados e refletidos para clientes e pessoas vendedoras.
+    - The status validation consists of ensuring that the order statuses are changed and reflected for customers and sellers.
 
-- Fluxo da Pessoa Administradora
+- Administrator Flow
     -
-    - O fluxo da pessoa administradora deve possibilitar o cadastro de clientes e pessoas vendedoras, tal como a remoção dos mesmos.
+    - The administrator flow should allow the registration of customers and sellers, as well as their removal.
 
-   ## Testando a API  
+   ## Testing the API 
     
     #### POST  `/login`
 ```
@@ -184,7 +184,7 @@ Sendo eles:
   }
   ```
 
-  **Respostas**
+  **Responses**
   
   Status: 200 OK
   ```
@@ -229,7 +229,7 @@ Sendo eles:
 #### POST `/register`
 
   
-  **Exemplo de Valores de Parâmetros**
+  **Parameter Value Example**
   ```
   {
     "name": "João Silva",
@@ -242,7 +242,7 @@ Sendo eles:
 
 
 
-  **Respostas**
+  **Responses**
   
   Status: 201 Created  
   ```
@@ -285,7 +285,7 @@ Sendo eles:
 
 #### GET `/seller`
   
-  **Respostas**
+  **Responses**
   
   Status: 200 OK
   ```
@@ -298,7 +298,7 @@ Sendo eles:
   ```
 #### POST `/sale`
 
-  **Exemplo de Valores de Parâmetros**
+  **Parameter Value Examples**
   ```
   {
     "cart": [
@@ -326,7 +326,7 @@ Sendo eles:
   ```
 
 
-  **Respostas**
+  **Responses**
   
   Status: 201 Created
   ```
@@ -336,14 +336,14 @@ Sendo eles:
   ```
   #### PUT /sale/orders
 
-  Status dos pedidos:
+  Order status:
   - "Pendente"
   - "Preparando"
   - "Em Trânsito"
   - "Entregue"
     
  
-  **Exemplo de Valores de Parâmetros**
+  **Parameter Value Example**
   ```
   {
     "saleId": 1, 
@@ -352,7 +352,7 @@ Sendo eles:
   ```
   
 
-  **Respostas**
+  **Response**
   
   Status: 200 OK
   ```
@@ -361,7 +361,7 @@ Sendo eles:
   ]
   ```
 
-  **Respostas**
+  **Responses**
   #### GET
   Status: 200 OK
   ```
@@ -383,7 +383,7 @@ Sendo eles:
   ]
   ```
 
-  **Respostas**
+  **Responses**
   #### GET /costumer/products
   Status: 200 OK
   ```
@@ -433,7 +433,7 @@ Sendo eles:
 
 #### GET `/users`
 
-  **Respostas**
+  **Responses**
   
   Status: 200 OK
   ```
@@ -456,13 +456,13 @@ Sendo eles:
 
   #### GET `/products`
   
-  **Parâmetros dos Headers**
+  **Header Parameters**
   ```
   Authorization: JsonWebToken
   ```
 
 
-  **Respostas**
+  **Responses**
   
   Status: 200 OK
   ```
@@ -497,13 +497,13 @@ Sendo eles:
 #### `/admin`
 #### GET
 
-  **Parâmetros dos Headers**
+  **Header Parameters**
   ```
   Authorization: JsonWebToken
   ```
 
 
-  **Respostas**
+  **Responses**
   
   Status: 200 OK
   ```
@@ -543,14 +543,14 @@ Sendo eles:
   ```
   #### POST
  
-  **Parâmetros dos Headers**
+  **Header Parameters**
   ```
   Authorization: JsonWebToken
   ```
 
 
 
-  **Exemplo de Valores de Parâmetros**
+  **Parameter Value Example**
   ```
   {
     "name": "João Silva",
@@ -561,7 +561,7 @@ Sendo eles:
 
   
 
-  **Respostas**
+  **Responses**
   
   Status: 201 Created  
   ```
@@ -621,14 +621,14 @@ Sendo eles:
   }
   ```
   
-  **Parâmetros dos Headers**
+  **Header Parameters**
   ```
   Authorization: JsonWebToken
   ```
   
    #### DELETE /admin/:id
   
-  **Respostas**
+  **Responses**
   
   Status: 201 Created
   ```
