@@ -688,32 +688,32 @@ The Delivery App was created in group and it was the Backend module final projec
 
 This project provided us to cooperate to colleagues and see new ways to work in group, using agile methodologies. Communication was essential to carry out this project, and we can proudly say that it was successful in its delivery.
 
-O grupo é composto dos seguintes desenvolvedores:
+The group is composed of the following developers:
 
-    - Gabriel Palhares (lider responsavel pelo grupo)
+    - Gabriel Palhares  (group leader)
     - Yuzo Matoba
     - Victor Alejandro Cabral Orellana
 
-##### Depoimetos sobre o projeto
+##### Testimonials about the project
 
-- Depoimento de Gabriel: Desenvolver o projeto Serelepe Delivery representou um grande desafio pessoal para mim, pois foi meu primeito projeto desenvolvido do zero fullStack. Graças à colaboração do meu time, conseguimos concluir o desenvolvimento dentro do prazo estipulado. Essa jornada proporcionou uma série de aprendizados técnicos valiosos e se mostrou uma excelente oportunidade para aprimorar minhas habilidades de soft skills.Gostaria de expressar minha profunda gratidão aos meus colegas, Yuzo e Victor, pelo trabalho conjunto e pela dedicação que ambos demonstraram durante todo o processo. Yuzo desempenhou um papel fundamental no desenvolvimento do front-end, utilizando o Context API para garantir o correto funcionamento do nosso projeto. E Victor, com seu incrível trabalho no back-end, utilizando o modelo MSC, contribuiu de forma significativa para o sucesso alcançado.Mais uma vez, gostaria de agradecer a ambos pelo esforço e dedicação, que foram essenciais para completar o nosso projeto.
+- Gabriel's Testimonial: Developing the Serelepe Delivery project represented a great personal challenge for me since it was my first full-stack project developed from scratch. Thanks to the collaboration of my team, we managed to complete the development within the stipulated deadline. This journey provided a series of valuable technical learnings and proved to be an excellent opportunity to improve my soft skills. I would like to express my deep gratitude to my colleagues, Yuzo and Victor, for their joint work and dedication throughout the process. Yuzo played a key role in front-end development, using the Context API to ensure the proper functioning of our project. And Victor, with his incredible work on the back-end, using the MSC model, contributed significantly to the achieved success. Once again, I would like to thank both of them for their effort and dedication, which were essential to completing our project.
 
-- Depoimeto de Yuzo: Trabalhar com o Gabriel e o Victor, proporcionou o entendimento de outras perspectivas de pensamento lógico, ampliando o meu escopo em relação à diferentes formas de se obter um mesmo resultado. A experiência prévia do Gabriel com programação e a sua empatia, foram fundamentais para que a sua liderança nos conduzisse para alcançarmos o estabelecido. Quanto ao Victor, o senso de responsabilidade e de companheirismo, contribuíram imensamente para que ficássemos sincronizados e seguíssemos um fluxo praticamente uniforme de trabalho. A ferramenta de gestão de tempo (Metodologia Ágil) foi o Trello para que os steps fossem organizados e feitos de acordo com a responsabilidade e tempo de cada membro. Gratidão ao meus colegas e amigos pelo incrível trabalho que desenvolveram comigo. Foram excepcionais e grandes parceiros nesse projeto do qual me orgulho muito. 
+- Yuzo's Testimonial: Working with Gabriel and Victor provided an understanding of different perspectives of logical thinking, expanding my scope in relation to different ways of achieving the same result. Gabriel's previous programming experience and his empathy were fundamental for his leadership to guide us in achieving the established goals. As for Victor, his sense of responsibility and camaraderie contributed immensely to keep us synchronized and follow an almost uniform workflow. The time management tool (Agile Methodology) we used was Trello to organize and perform the steps according to each member's responsibility and time. Gratitude to my colleagues and friends for the incredible work they developed with me. They were exceptional and great partners in this project, of which I am very proud.
 
-- Depoimeto de Victor: Esse trabalho em grupo foi bem desafiador de começo, nunca tinha trabalhado com o Gabriel ou o Yuzo antes, então estava bem animado para realizar esse projeto com eles. Posso dizer que foi uma das melhores decisões que tomei, realizar esse projeto com dois grandes desenvolvedores como eles, agregou muito ao meu conhecimento em hardskills como em softskills. Definitivamente foi o projeto mais divertido e o que mais aprendi durante o curso da Trybe. So tenho a agradecer aos meus colegas por esses 13 dias intensos de projeto!
-## Contato
+- Victor's Testimonial: This group project was quite challenging at first. I had never worked with Gabriel or Yuzo before, so I was very excited to do this project with them. I can say it was one of the best decisions I made, to carry out this project with two great developers like them, added a lot to my knowledge in both hardskills and softskills. It was definitely the most enjoyable project and the one where I learned the most during my time at Trybe. I just have to thank my colleagues for these intense 13 days of the project!
+## Group Member Contacts
 
-#### Redes de Gabriel
-- E-mail: devpalhares@gmail.com
+#### Gabriel's Contact
+- Email: devpalhares@gmail.com
 - LinkedIn: https://www.linkedin.com/in/devpalhares/
 - Github: https://github.com/GPalhares
 
-#### Redes de Victor
-- E-mail: victor_cabral_o@hotmail.com
+#### Victor's Contact
+- Email: victor_cabral_o@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/victor-alejandro-orellana/
 - Github: https://github.com/mendokusaiiii
 
-#### Redes de Yuzo
-- E-mail: fabioymatoba@uol.com.br
+#### Yuzo's Contact
+- Email: fabioymatoba@uol.com.br
 - LinkedIn: https://www.linkedin.com/in/fabio-yuzo
 - Github: https://github.com/yuzomatoba 
