@@ -78,9 +78,9 @@ The Back-End was developed using the following tools:
 
 - ``dev:prestart``: From the root, this command installs dependencies  ``(npm i)`` in the two projects ``(./front-end e ./back-end)`` and runs ``Sequelize`` in ``./back-end`` (remember to configure the .env file in the same directory).
 
-- ``db:reset``: Roda os scripts do ``Sequelize`` restaurando o banco de dados de desenvolvimento (final ``-dev``). Utilize esse script caso ocorra algum problema no seu banco local.
+- ``db:reset``: Runs the ``Sequelize`` scripts to restore the development database (ending with ``-dev``). Use this script if you find any issues with your local database.
 
-- ``test <nomes-dos-arquivos>``: Roda todos os testes (ou uma parte deles caso ``<nomes-dos-arquivos>`` seja definido) utilizando o banco de dados de testes (final ``-test``).
+- ``test <file-names>``: Runs all tests (or a subset if  ``<file-names>`` is specified) using the test database (ending with ``-test``).
 
 
 ## Para iniciar o projeto, siga os seguintes passos:
