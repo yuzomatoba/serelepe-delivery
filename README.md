@@ -36,7 +36,7 @@ The old system, which was a set of spreadsheets, no longer meets the business ne
 
 ## Front-End
 
-O Front-End foi desenvolvido com as seguintes ferramentas:
+The Front-End was developed using the following tools:
 - Axios
 - Material UI
 - React
@@ -45,7 +45,7 @@ O Front-End foi desenvolvido com as seguintes ferramentas:
 
 
 ## Back-End
-O Back-End foi desenvolvido com as seguintes ferramentas:
+The Back-End was developed using the following tools:
 - Javascript
 - NodeJS
 - ExpressJS
@@ -56,16 +56,16 @@ O Back-End foi desenvolvido com as seguintes ferramentas:
 - Chai
 - Sinon
 
-## Testes
+## Testing
 - RTL
 - Chai e Sinon
 - Jest
 
 ## Installation
 
-🤖 Comandos necessarios para o uso:
+🤖 Required commands:
 
-❗️ Observação: nesse projeto, utilizamos o gerenciador de processos `pm2`. Caso você queira entender melhor o que são gerenciadores de processos Node, dê uma conferida na documentação. ❗️
+❗️ Note: In this project, the process manager pm2 was the used tool. If you want to understand better what Node process manager is, check the documentation. ❗️
 
 
 
