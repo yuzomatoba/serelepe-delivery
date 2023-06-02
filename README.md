@@ -71,10 +71,10 @@ The Back-End was developed using the following tools:
 
  These are the scripts at the root of the project (~/package.json) and not the individual applications ./front-end/package.json and ./back-end/package.json (All commands should be executed with npm. Ex: npm start):
 
- - ``start``: Limpa as portas ``3000`` e ``3001`` e simula a inicialização no avaliador. Também prepara o campo rodando o ``Sequelize`` para restaurar o banco de dados de testes (final -test) e sobe a aplicação com ``pm2`` em modo fork (uma instância para cada aplicação). Nesse modo, as alterações não são assistidas.
+ - ``start``: Limpa as portas ``3000`` e ``3001`` and simulates the initialization in the evaluator. It also prepares the environment by running ``Sequelize`` to restore the test database (ending with -test) and starts the application with ``pm2`` em modo fork (uma instância para cada aplicação). Nesse modo, as alterações não são assistidas.
  - ``stop``: Para e deleta as aplicações rodando no ``pm2``;
  
- - ``dev``: Limpa as portas ``3000`` e ``3001`` e sobe a aplicação com ``pm2`` em modo fork (uma instância pra cada aplicação). Nesse modo, as atualizações são assistidas (modo watch).
+ - ``dev``: Clears the ports ``3000`` and ``3001`` e sobe a aplicação com ``pm2`` in fork mode (one instance for each application). In this mode, changes are not watched.
 
 - ``dev:prestart``: A partir da raiz, esse comando faz o processo de instalação de dependências ``(npm i)`` nos dois projetos ``(./front-end e ./back-end)`` e roda o ``Sequelize`` no ``./back-end`` (lembrar de configurar o .env no mesmo).
 
