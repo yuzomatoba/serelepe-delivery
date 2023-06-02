@@ -61,7 +61,7 @@ O Back-End foi desenvolvido com as seguintes ferramentas:
 - Chai e Sinon
 - Jest
 
-## Instalação
+## Installation
 
 🤖 Comandos necessarios para o uso:
 
@@ -93,7 +93,7 @@ O Back-End foi desenvolvido com as seguintes ferramentas:
     - `npm run db:reset` - Isso executará os scripts do Sequelize e restaurará o banco de dados de desenvolvimento.
     - `npm run start` - Isso limpará as portas 3000 e 3001 e iniciará a aplicação.
 
-## Banco de Dados
+## Database
 
 Para o banco de dados, utilizamos o ORM Sequelize, que fará interface com o MySQL.
 
@@ -657,7 +657,7 @@ Sendo eles:
 
 
 
-## Habilidades:
+## Skills:
 #### Hardskills Backend:
 
     - A realização da dockerização dos apps, network, volume e compose;
@@ -683,7 +683,7 @@ Sendo eles:
     - Scrum
     - Kanban
     - Comunicação
-## Um pouco sobre o grupo
+## About the Group
 O App de Delivery foi um projeto realizado em grupo, sendo o ultimo projeto do modulo de Back-End. Com o objetivo de trabalhar principalmente as softskills e simular um ambiente de trabalho com diferentes pessoas atuando no mesmo.
 
 Esse projeto permitiu com que conhecemos novas pessoas e vissemos novos jeitos de trabalhar em grupo, utilizando as metodologias ageis. A comunicação foi essencial para realizar esse projeto e podemos dizer com muito orgulho que tivesse sucesso na entrega do mesmo.
