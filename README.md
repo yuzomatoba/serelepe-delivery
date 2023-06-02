@@ -658,35 +658,35 @@ They are:
 
 
 ## Skills:
-#### Hardskills Backend:
+#### Backend Skills:
 
-    - A realização da dockerização dos apps, network, volume e compose;
-    - A modelagem de dados com MySQL através do Sequelize;
-    - A criação e associação de tabelas usando models do sequelize;
-    - A construção de uma API REST com endpoints para consumir os models criados;
-    - A construção de um CRUD com NodeJS, utilizando ORM;
-    - Jwt para validações de segurança
+    - Dockerizing apps, network, volume, and compose;
+    - Data modeling with MySQL using Sequelize;
+    - Creating and associating tables using Sequelize models;
+    - Building a REST API with endpoints to consume the created models;
+    - Building a CRUD with Node.js, using an ORM;
+    - JWT for security validations
     
-    ## Habilidades:
-#### Hardskills Frontend:
+    ## Skills:
+#### Frontend Skills:
 
-    - A utilização de javascript com React e React Hooks;
-    - A Utilização do Context API para gerenciamento de estado global;
-    - Material UI Para customização e CSS;
-    - Local Storage para salvar dados persistentes no navegador;
-    - Axios para fetchs com o back End;
-    - React Router para rotas;
+    - JavaScript with React and React Hooks;
+    - Context API for global state management;
+    - Material UI for customization and CSS;
+    - Local Storage for saving persistent data in the browser;
+    - Axios for fetching data from the backend;
+    - React Router for routing
 
 ##### Softskills:
-    - Trabalho em grupo
-    - Metodologias Ageis
+    - Teamwork;
+    - Agile methodologies
     - Scrum
     - Kanban
-    - Comunicação
+    - Communication
 ## About the Group
-O App de Delivery foi um projeto realizado em grupo, sendo o ultimo projeto do modulo de Back-End. Com o objetivo de trabalhar principalmente as softskills e simular um ambiente de trabalho com diferentes pessoas atuando no mesmo.
+The Delivery App was created in group and it was the Backend module final project. Its main target was to work on soft skills and simulate a work environment with different people collaborating on it.
 
-Esse projeto permitiu com que conhecemos novas pessoas e vissemos novos jeitos de trabalhar em grupo, utilizando as metodologias ageis. A comunicação foi essencial para realizar esse projeto e podemos dizer com muito orgulho que tivesse sucesso na entrega do mesmo.
+This project provided us to cooperate to colleagues and see new ways to work in group, using agile methodologies. Communication was essential to carry out this project, and we can proudly say that it was successful in its delivery.
 
 O grupo é composto dos seguintes desenvolvedores:
 
