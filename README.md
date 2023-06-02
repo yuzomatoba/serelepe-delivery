@@ -95,11 +95,11 @@ The Back-End was developed using the following tools:
 
 ## Database
 
-Para o banco de dados, utilizamos o ORM Sequelize, que fará interface com o MySQL.
+For the database, the Sequelize ORM was the used tool, which interfaces with MySQL.
 
-Utilize para referência de criação de migrations e seeders o arquivo ``./db.example.sql``.
+Use the file ``./db.example.sql`` as a reference for creating migrations and seeders.
 
-O Diagrama de ER também pode ajudar a "visualizar" o banco de dados.
+The ER Diagram can also help you to "visualize" the database.
 
 
 ![Logo](https://raw.githubusercontent.com/tryber/sd-025-a-project-delivery-app/master/assets/readme/erdr.png?token=GHSAT0AAAAAAB5ARU2OO7UX6FS7RBJRXXBKZDGSGGQ)
