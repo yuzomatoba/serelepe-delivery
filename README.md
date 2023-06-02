@@ -28,7 +28,7 @@ Now, the distributor has several sale spots in the city to expedite the service 
 
 The old system, which was a set of spreadsheets, no longer meets the business needs due to generating a lot of maintenance, Mr. Serelepe sought our web developer team with an idea for an application that could streamline the team and the customer lives who buy their products. The app is able to:
 
-- 👨‍💻 👩‍💻Ter acesso via login: tanto clientes como pessoas vendedoras, assim como o próprio seu Urubu, que administra o sistema, devem ter acesso ao aplicativo via login, porém para funções diferentes: (1) A pessoa cliente, que compra da lista de produtos; (2) A pessoa vendedora, que aprova, prepara e entrega; (3) A pessoa administradora, que gerencia quem usa o aplicativo.
+- 👨‍💻 👩‍💻Access via login: both customers and salespeople, as well as Mr. Serelepe, who manages the system, must have access to the application via login, but with different functions: (1) The customer, who buys from the product list; (2) The salesperson, who approves, prepares, and delivers the orders; (3) The administrator, who manages the application users.
 
 - 🗣 👥 Fazer a comunicação entre clientes e pessoas vendedoras: a pessoa cliente faz o pedido via "carrinho de compras" e a pessoa vendedora aprova, prepara e envia esse pedido. Quando o produto é recebido por quem comprou, essa pessoa marca o pedido como "recebido". Ambos devem possuir detalhes sobre seus pedidos.
 
