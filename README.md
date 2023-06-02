@@ -83,15 +83,15 @@ The Back-End was developed using the following tools:
 - ``test <file-names>``: Runs all tests (or a subset if  ``<file-names>`` is specified) using the test database (ending with ``-test``).
 
 
-## Para iniciar o projeto, siga os seguintes passos:
+## To start the project, follow these steps:
 
-- Crie e configure um arquivo `.env` com as suas variáveis de ambiente no diretório back-end. Caso contrário, a configuração do banco de dados usará os valores padrão(Um exemplo de `.env` está na `src` do backend).
+- Create and configure a `.env` file with your environment variables in the back-end directory. Otherwise, the database configuration will use the default values (an example `.env` file is available in the backend's  `src` folder).
 
-- Instale o banco de dados MySQL e verifique se ele está sendo executado no seu computador ou em um contêiner.
+- Install the MySQL database and make sure it is running on your computer or in a container.
 
-- Abra o terminal na pasta raiz (`~/delivery_app`) e execute os seguintes comandos:
-    - `npm run db:reset` - Isso executará os scripts do Sequelize e restaurará o banco de dados de desenvolvimento.
-    - `npm run start` - Isso limpará as portas 3000 e 3001 e iniciará a aplicação.
+- Open the terminal in the root folder (`~/delivery_app`) and run the following commands:
+    - `npm run db:reset` - This will run the Sequelize scripts and restore the development database.
+    - `npm run start` - This will clear ports 3000 and 3001 and start the application.
 
 ## Database
 
