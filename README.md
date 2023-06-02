@@ -1,22 +1,22 @@
 # Serelepe Delivery
 
-Este projeto é um aplicativo de delivery desenvolvido para os clientes, funcionários e administradores de uma empresa. Ele permite vendas de produtos, registro de novos usuários, acompanhamento de pedidos e gerenciamento de usuários e pedidos.
+This project is a delivery application developed for the customers, employees, and administrators of a company. It allows for product sales, user registration, order tracking, and user and order management.
 
-Todos os usuários têm acesso através do login com diferentes permissões. O aplicativo valida o tipo de usuário a que a conta pertence usando o Token JWT. Além disso, o vendedor só pode ver os pedidos relacionados ao seu nome.
+All users have access through login with different permissions. The application validates the type of user the account belongs to using JWT Token. In addition, the seller can only see orders related to their name.
 
 
 
-## Sumário
+## Summary
 
- - [Sobre o projeto](#sobre-o-projeto)
+ - [About the project](#sobre-o-projeto)
  - [Front-End](#front-end)
  - [Back-End](#back-end)
- - [Tecnologias Utilizadas](#front-end)
- - [Instalação](#instalação)
- - [Banco de Dados](#banco-de-dados)
+ - [Applied technologies](#front-end)
+ - [Installation](#instalação)
+ - [Database](#banco-de-dados)
  - [API](#api)
- - [Habilidades](#habilidades)
- - [Um pouco sobre o Grupo](#depoimetos-sobre-o-projeto)
+ - [Skills](#habilidades)
+ - [About the Group](#depoimetos-sobre-o-projeto)
 
 ## Sobre o projeto
 
