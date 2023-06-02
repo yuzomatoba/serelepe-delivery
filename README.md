@@ -24,7 +24,7 @@ In this application, our group was responsible for creating and integrating both
 
 Your Serelepe's beer distributor is getting computerized! 🚀 Your business, which was previously focused on a specific location in the city, has started receiving a massive order quantity from other areas, expanding its delivery service. All thanks to the excellent beverage price and the sales team's service.
 
-Agora a distribuidora possui alguns pontos de venda na cidade para agilizar no atendimento dessas áreas. Cada ponto de venda, por sua vez, possui uma pessoa vendedora responsável.
+Now, the distributor has several sale spots in the city to expedite the service in these areas. Each sale spot has its own salesperson responsible.
 
 Como seu antigo sistema, que era um conjunto de planilhas, já não atende a necessidade do negócio por gerar muita manutenção, o seu Urubu procurou a nossa equipe de pessoas desenvolvedoras com uma ideia de aplicativo que pudesse agilizar a vida de sua equipe e das pessoas que compram seus produtos. O aplicativo consegue:
 
