@@ -18,7 +18,7 @@ All users have access through login with different permissions. The application 
  - [Skills](#habilidades)
  - [About the Group](#depoimetos-sobre-o-projeto)
 
-## Sobre o projeto
+## About the project
 
 Nessa aplicação, nosso grupo foi responsável por criar e integrar tanto o back-end quanto o front-end, criando uma plataforma de delivery de cerveja. 🍻
 
