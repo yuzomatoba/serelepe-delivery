@@ -1,6 +1,4 @@
-## <img src="https://github.com/yuzomatoba/serelepe-delivery/assets/108953241/93fe3415-191c-4dd6-b328-d34c7644fbf3" alt="Serelepe Delivery" width="20" height="20">
-
- Serelepe Delivery <img src="https://github.com/yuzomatoba/serelepe-delivery/assets/108953241/93fe3415-191c-4dd6-b328-d34c7644fbf3" alt="Serelepe Delivery" width="20" height="20">
+## <img src="https://github.com/yuzomatoba/serelepe-delivery/assets/108953241/93fe3415-191c-4dd6-b328-d34c7644fbf3" alt="Serelepe Delivery" width="20" height="20"> Serelepe Delivery <img src="https://github.com/yuzomatoba/serelepe-delivery/assets/108953241/93fe3415-191c-4dd6-b328-d34c7644fbf3" alt="Serelepe Delivery" width="20" height="20">
 
 
 
