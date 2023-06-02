@@ -1,8 +1,8 @@
 # Serelepe Delivery
 
-This project is a delivery application developed for the customers, employees, and administrators of a company. It allows for product sales, user registration, order tracking, and user and order management.
+This project is a delivery application developed for customers, employees, and administrators. It allows for product sales, user registration, order tracking, and user and order management.
 
-All users have access through login with different permissions. The application validates the type of user the account belongs to using JWT Token. In addition, the seller can only see orders related to their name.
+All users have access through login with different permissions. The application validates the user type through the JWT Token. In addition, the seller can only access orders related to their name.
 
 
 
@@ -20,9 +20,9 @@ All users have access through login with different permissions. The application 
 
 ## About the project
 
-Nessa aplicação, nosso grupo foi responsável por criar e integrar tanto o back-end quanto o front-end, criando uma plataforma de delivery de cerveja. 🍻
+In this application, our group was responsible for creating and integrating both the back-end and the front-end, creating a beer delivery platform. 🍻
 
-A distribuidora de cervejas Serelepe está se informatizando! 🚀 Seu negócio, antes focado em um local específico da cidade, passou a receber uma quantidade massiva de encomendas de outros pontos, expandindo sua atuação via delivery. Isso tudo graças ao excelente preço das bebidas e atendimento da equipe de vendas.
+Your Serelepe's beer distributor is getting computerized! 🚀 Your business, which was previously focused on a specific location in the city, has started receiving a massive order quantity from other areas, expanding its delivery service. All thanks to the excellent beverage price and the sales team's service.
 
 Agora a distribuidora possui alguns pontos de venda na cidade para agilizar no atendimento dessas áreas. Cada ponto de venda, por sua vez, possui uma pessoa vendedora responsável.
 
