@@ -106,14 +106,14 @@ The ER Diagram can also help you to "visualize" the database.
 
 The database has three default users (customer, seller, and administrator) and eleven beverages. You can use the following credentials to test the application:
 
-- Cliente:
+- Customer:
   ```
   name: Cliente Zé Birita
   email: zebirita@email.com
   password: $#zebirita#$
   ```
 
-- Vendedor:
+- Seller:
   ```
   name: Fulana Pereira
   email: fulana@deliveryapp.com
