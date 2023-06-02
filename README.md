@@ -26,7 +26,7 @@ Your Serelepe's beer distributor is getting computerized! 🚀 Your business, wh
 
 Now, the distributor has several sale spots in the city to expedite the service in these areas. Each sale spot has its own salesperson responsible.
 
-As the old system, which was a set of spreadsheets, no longer meets the business needs due to generating a lot of maintenance, Mr. Serelepe sought our web developer team with an idea for an application that could streamline the team and the customer lives who buy their products. The application can:
+As the old system, which was a set of spreadsheets, no longer meets the business needs due to generating a lot of maintenance, Mr. Serelepe sought our web developer team with an idea for an application that could streamline the team and the customer lives who buy their products. The ap:
 
 - 👨‍💻 👩‍💻Ter acesso via login: tanto clientes como pessoas vendedoras, assim como o próprio seu Urubu, que administra o sistema, devem ter acesso ao aplicativo via login, porém para funções diferentes: (1) A pessoa cliente, que compra da lista de produtos; (2) A pessoa vendedora, que aprova, prepara e entrega; (3) A pessoa administradora, que gerencia quem usa o aplicativo.
 
