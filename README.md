@@ -127,22 +127,22 @@ The database has three default users (customer, seller, and administrator) and e
   password: --adm2@21!!--
   ```
 
-#### MySQL com Docker
-Para usar o MySQL com Docker, você precisa ter o Docker instalado em sua máquina. Para verificar se você tem o Docker instalado, abra o prompt de comando e digite:
+#### MySQL with Docker
+To use MySQL with Docker, you need to have Docker installed on your machine. To check if you have Docker installed, open the command prompt and type:
 `docker --version`
 
-Este comando deve retornar algo semelhante a:
+This command should return something like:
 `Docker version 23.0.2`
 
-Depois de ter o Docker instalado, você pode criar o contêiner com o seguinte comando. Lembre-se de alterar o nome do contêiner e a senha:
+After having Docker installed, you can create the container with the following command. Remember to change the container name and password:
 `docker container run --name delivery-app -e MYSQL_ROOT_PASSWORD=123456 -d -p 3306:3306 mysql:5.7`.
 
-Este comando criará um contêiner MySQL com o nome `delivery-app`, irá definir a senha de root como `123456` e irá expor a porta MySQL 3306 para a porta local 3306.
+This command will create a MySQL container named `delivery-app`, set the root password to  `123456` and expose the MySQL port 3306 to the local port 3306.
 
 
 ## API
 
-Para entender como funciona um pouco melhor a API e o projeto em si, as funcionalidades e desenvolvimento foi dividida em cinco (5) fluxos diferentes, cada um com a suas subdivisões, que juntos se tornam a aplicação em si.
+To better understand how the API and the project itself work, the functionalities and development have been divided into five (5) different flows, each with its subdivisions, which together form the application itself.
 
 Sendo eles: 
 - Fluxo Comum
