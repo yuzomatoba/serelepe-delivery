@@ -30,9 +30,9 @@ The old system, which was a set of spreadsheets, no longer meets the business ne
 
 - 👨‍💻 👩‍💻Access via login: both customers and salespeople, as well as Mr. Serelepe, who manages the system, must have access to the application via login, but with different functions: (1) The customer, who buys from the product list; (2) The salesperson, who approves, prepares, and delivers the orders; (3) The administrator, who manages the application users.
 
-- 🗣 👥 Fazer a comunicação entre clientes e pessoas vendedoras: a pessoa cliente faz o pedido via "carrinho de compras" e a pessoa vendedora aprova, prepara e envia esse pedido. Quando o produto é recebido por quem comprou, essa pessoa marca o pedido como "recebido". Ambos devem possuir detalhes sobre seus pedidos.
+- 🗣 👥 🗣 👥Facilitate communication between customers and salespeople: the customer places an order through the "shopping cart," and the salesperson approves, prepares, and sends the order. When the product is received by the purchaser, they mark the order as "received." Both parties should have details about their orders.
 
-- 🏍 Se a pessoa cliente faz o pedido, o mesmo deve aparecer para a pessoa vendedora em seu dash de pedidos após a atualização da página. A pessoa cliente, por sua vez, deve ter as informações sobre seu pedido quando sua página for atualizada, ou seja, ter informações se o pedido está sendo preparado ou se já saiu pra entrega.
+- 🏍If the customer places an order, it should appear in the salesperson's order dashboard after the page refresh. The customer, on the other hand, should have information about their order when the page is refreshed, which means information about whether the order is being prepared or has already been dispatched.
 
 ## Front-End
 
