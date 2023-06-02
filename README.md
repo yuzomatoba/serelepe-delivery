@@ -104,7 +104,7 @@ The ER Diagram can also help you to "visualize" the database.
 
 ![Logo](https://raw.githubusercontent.com/tryber/sd-025-a-project-delivery-app/master/assets/readme/erdr.png?token=GHSAT0AAAAAAB5ARU2OO7UX6FS7RBJRXXBKZDGSGGQ)
 
-O banco de dados vem com três usuários padrões (cliente, vendedor e administrador) e onze bebidas. Você pode usar as seguintes credenciais para testar o aplicativo:
+The database has three default users (customer, seller, and administrator) and eleven beverages. You can use the following credentials to test the application:
 
 - Cliente:
   ```
