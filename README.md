@@ -19,6 +19,58 @@ All users have access through login with different permissions. The application 
  - [API](#api)
  - [Skills](#habilidades)
  - [About the Group](#depoimetos-sobre-o-projeto)
+ 
+
+<div align="center">
+
+<h1>Features:</h1>
+
+  <img src="image/serelepe-login.png" width="45%" height="45%"/>
+  
+  <h2>login page</h2>
+</div>
+
+<div align="center">
+
+  <img src="image/serelepe-registro-usuario.png" width="50%" height="50%"/>
+  
+  <h2>customer register</h2>
+</div>
+
+<div align="center">
+
+  <img src="image/serelepe-produtos.png" width="50%" height="50%"/>
+  
+  <h2>products</h2>
+</div>
+
+<div align="center">
+
+  <img src="image/serelepe-pedidos.png" width="50%" height="50%"/>
+  
+  <h2>customer orders</h2>
+</div>
+
+<div align="center">
+
+  <img src="image/serelepe-pedidos-vendedor.png" width="50%" height="50%"/>
+  
+  <h2>seller orders</h2>
+</div>
+
+<div align="center">
+
+  <img src="image/serelepe-.png" width="50%" height="50%"/>
+  
+  <h2>seller order details</h2>
+</div>
+
+<div align="center">
+
+  <img src="image/serelepe-admin.png" width="50%" height="50%"/>
+  
+  <h2>admin page</h2>
+</div>
 
 ## About the project
 
