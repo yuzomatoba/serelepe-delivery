@@ -69,7 +69,7 @@ All users have access through login with different permissions. The application 
 
   <img src="image/serelepe-admin.png" width="50%" height="50%"/>
   
-  <h2>admin page.</h2>
+  <h2>admin page</h2>
 </div>
 
 ## About the project
