@@ -24,7 +24,7 @@ All users have access through login with different permissions. The application 
 <div align="center">
 
 <h1>Features:</h1>
-
+![login page](image/serelepe-login.png).
   <img src="image/serelepe-login.png" width="45%" height="45%"/>
   
   <h2>login page</h2>
