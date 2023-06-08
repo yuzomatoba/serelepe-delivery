@@ -60,13 +60,6 @@ All users have access through login with different permissions. The application 
 
 <div align="center">
 
-  <img src="image/serelepe-.png" width="50%" height="50%"/>
-  
-  <h2>seller order details</h2>
-</div>
-
-<div align="center">
-
   <img src="image/serelepe-admin.png" width="50%" height="50%"/>
   
   <h2>admin page</h2>
